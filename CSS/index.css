@@ -3,24 +3,14 @@ body {
   }
   
   h1 {
-    color: rgb(59, 161, 230);
+    color: rgb(231, 138, 243);
     text-align: center;
   }
   h2{
-    color: rgb(71, 190, 245);
-    text-align: ;
-    font-family: verdana;
-    font-size: 25px;
+    color: rgb(238, 187, 245);
+    text-align: center;
   }
   p {
     font-family: verdana;
     font-size: 20px;
   }
-  footer1 {
-    color: rgb(48, 185, 248);
-    text-align: ;
-    font-family: verdana;
-    font-size: 25px;
-  }
-  
-   
